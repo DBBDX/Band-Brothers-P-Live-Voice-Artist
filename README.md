@@ -1,14 +1,21 @@
-# Complete Collection of Vocaloid "Live Voice Artists" from the 3DS game 大合奏!バンドブラザーズP
+<h1 align="center">
+Complete Collection of Vocaloid "Live Voice Artists" from the 3DS game 大合奏!バンドブラザーズP
+</h1>
+<br>
+
 <p align="center">
   <a href="Images/ELFyYD7U0AAYBmA.jpg">
     <img src="Images/ELFyYD7U0AAYBmA.jpg" width="500">
   </a>
 </p>
-This repository contains the complete collection of all eleven Vocaloid "Live Voice Artists" released for Daigasso! Band Brothers P.
-
-The files were extracted using Degausser and are provided in BBPV format. You can use the same tool to import them into your own save data.
+<p align="center">
+This repository contains the complete collection of all eleven Vocaloid "Live Voice Artists" released for Daigasso! Band Brothers P
+<br>
+The files were extracted using Degausser and are provided in BBPV format
+</p>
 
 <br>
+
 <h3 align="center">Collection of 11 Singers</h3>
 
 <table align="center">
@@ -188,13 +195,39 @@ The files were extracted using Degausser and are provided in BBPV format. You ca
 </tr>
 
 </table>
+
+ 
+<h3 align="center">Useful Resources</h3>
+
+<p align="center">
+
+<a href="https://github.com/Neobeo/JamWithTheBandP-English">
+Jam With The Band P English Translation
+</a>
+
+</p>
+
+<p align="center">
+
+<a href="https://github.com/AdibSurani/Degausser">
+Degausser
+</a>
+
+</p>
+
+<p align="center">
+
+<a href="https://gbatemp.net/threads/daigasso-band-brothers-p.368948/post-9466190">
+Naderino's
+</a>
+9,000+ Song Collection
+<a href="https://drive.google.com/file/d/1zsuhBsvQQT860p5aMst-AKhprqPpJkCt/view?usp=sharing">
+Artisted - BBP Renamed and Romanized
+</a>
+
+</p>
+
 <br>
-
-## Useful Resources
-
-- English Translation [Jam With The Band P](https://github.com/Neobeo/JamWithTheBandP-English)
-- [Degausser](https://github.com/AdibSurani/Degausser)
-- [Naderino's](https://gbatemp.net/threads/daigasso-band-brothers-p.368948/post-9466190) 9,000+ Song Collection [Artisted - BBP Renamed and Romanized.rar](https://drive.google.com/file/d/1zsuhBsvQQT860p5aMst-AKhprqPpJkCt/view?usp=sharing)
 
 <p align="center">
   <a href="Images/EJUXu5EVUAE5hjr.jpg">
@@ -202,11 +235,15 @@ The files were extracted using Degausser and are provided in BBPV format. You ca
   </a>
 </p>
 
-## Credits
 
-Special thanks to the original uploaders and everyone who contributed to preserving this content. :shipit:
+<h3 align="center">Credits</h3>
 
-##
+<p align="center">
+Special thanks to the original uploaders and everyone who contributed to preserving this content :shipit:
+</p>
+
+<br>
+
 <table align="center">
 <tr>
 <th>Barbara's Final Message</th>
