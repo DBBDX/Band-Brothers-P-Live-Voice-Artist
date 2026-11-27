@@ -197,16 +197,16 @@ Complete Collection of Voice Artists
 
 <p align="center">
 
-<a href="https://github.com/Neobeo/JamWithTheBandP-English">
-Jam With The Band P English Translation
+<a href="https://github.com/AdibSurani/Degausser">
+Degausser
 </a>
 
 </p>
 
 <p align="center">
 
-<a href="https://github.com/AdibSurani/Degausser">
-Degausser
+<a href="https://github.com/Neobeo/JamWithTheBandP-English">
+Jam With The Band P English Translation
 </a>
 
 </p>
