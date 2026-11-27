@@ -213,7 +213,7 @@ Degausser
 
 <p align="center">
 
-<a href="https://gbatemp.net/threads/daigasso-band-brothers-p.368948/post-9466190">
+<a href="https://gbatemp.net/members/naderino.301146/">
 Naderino's
 </a>
 9,000+ Song Collection
@@ -254,7 +254,7 @@ Thanks to the original uploaders and everyone who helped preserve this content :
 じゃね！
 
 
-<p align="right"><i>~ バーバラ, 2020</i></p>
+<p align="right"><i>バーバラ, 2020</i></p>
 
 </td>
 </tr>
