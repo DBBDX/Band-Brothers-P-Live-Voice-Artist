@@ -11,8 +11,10 @@ Complete Collection of Voice Artists
   </a>
 </p>
 <p align="center">
-This repository contains the complete collection of all eleven 
-<br> Vocaloid Voice Artists released for Daigasso! Band Brothers P
+This repository contains the complete collection of all eleven
+Vocaloid Voice Artists released for Daigasso! Band Brothers P
+</p>
+<p align="center">
 <br> The files were extracted using Degausser and are provided in BBPV format
 </p>
 
@@ -260,7 +262,7 @@ Special thanks to the original uploaders and everyone who contributed to preserv
 じゃね！
 
 
-<p align="right"><i>~ Barbara, 2020</i></p>
+<p align="right"><i>~ バーバラ, 2020</i></p>
 
 </td>
 </tr>
