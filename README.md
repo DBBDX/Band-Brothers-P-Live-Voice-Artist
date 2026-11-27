@@ -11,9 +11,9 @@ Complete Collection of Voice Artists
   </a>
 </p>
 <p align="center">
-This repository contains the complete collection of all eleven Vocaloid "Live Voice Artists" released for Daigasso! Band Brothers P
-<br>
-The files were extracted using Degausser and are provided in BBPV format
+This repository contains the complete collection of all eleven 
+<br> Vocaloid Voice Artists released for Daigasso! Band Brothers P
+<br> The files were extracted using Degausser and are provided in BBPV format
 </p>
 
 <br>
