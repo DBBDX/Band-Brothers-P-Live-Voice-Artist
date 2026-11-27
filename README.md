@@ -8,24 +8,187 @@ This repository contains the complete collection of all eleven Vocaloid "Live Vo
 
 The files were extracted using Degausser and are provided in BBPV format. You can use the same tool to import them into your own save data.
 
+<br>
+<h3 align="center">Collection of 11 Singers</h3>
 
+<table align="center">
 
- ### Collection of 11 Singers
+<tr>
+<td colspan="5" align="center">
 
- | Release Date | Singer | Portrait |
- | --- | --- | --- |
- | 2013/11/14 | バーバラ (Barbara) | <a href="Images/Portraits/Barbara.jpg"><img src="Images/Portraits/Barbara.jpg" width="70"></a> |
- | 2014/03/28 | 蒼姫ラピス (Aoki Lapis) | <a href="Images/Portraits/Lapis.jpg"><img src="Images/Portraits/Lapis.jpg" width="70"></a> |
- | 2014/04/24 | 神威がくぽ (Camui Gackpo) | <a href="Images/Portraits/Gackpo.jpg"><img src="Images/Portraits/Gackpo.jpg" width="70"></a> |
- | 2014/08/27 | GUMI | <a href="Images/Portraits/GUMI.jpg"><img src="Images/Portraits/GUMI.jpg" width="70"></a> |
- | 2015/01/31 | KYO | <a href="Images/Portraits/KYO.jpg"><img src="Images/Portraits/KYO.jpg" width="70"></a> |
- | 2015/01/31 | YUU | <a href="Images/Portraits/YUU.jpg"><img src="Images/Portraits/YUU.jpg" width="70"></a> |
- | 2015/01/31 | WIL | <a href="Images/Portraits/WIL.jpg"><img src="Images/Portraits/WIL.jpg" width="70"></a> |
- | 2015/04/02 | ギャラ子 (galaco) | <a href="Images/Portraits/galaco.jpg"><img src="Images/Portraits/galaco.jpg" width="70"></a> |
- | 2015/05/06 | MAYU | <a href="Images/Portraits/MAYU.jpg"><img src="Images/Portraits/MAYU.jpg" width="70"></a> |
- | 2015/12/25 | Sachiko | <a href="Images/Portraits/Sachiko.jpg"><img src="Images/Portraits/Sachiko.jpg" width="70"></a> |
- | 2016/01/05 | アルスロイド (ARSLOID) | <a href="Images/Portraits/ARSLOID.jpg"><img src="Images/Portraits/ARSLOID.jpg" width="70"></a> |
+<table>
+<tr>
 
+<td>
+<a href="Images/Portraits/Barbara.jpg">
+<img src="Images/Portraits/Barbara.jpg" width="90">
+</a>
+</td>
+
+<td>
+
+<b>バーバラ</b>
+<br>
+<code>バーバラ.bbpv</code>
+
+</td>
+
+</tr>
+</table>
+
+</td>
+</tr>
+
+<tr>
+
+<td align="center">
+
+<a href="Images/Portraits/Lapis.jpg">
+<img src="Images/Portraits/Lapis.jpg" width="70">
+</a>
+
+<br>
+
+<b>蒼姫ラピス</b>
+<br>
+<code>あおきラピス.bbpv</code>
+
+</td>
+
+<td align="center">
+
+<a href="Images/Portraits/Gackpo.jpg">
+<img src="Images/Portraits/Gackpo.jpg" width="70">
+</a>
+
+<br>
+
+<b>神威がくぽ</b>
+<br>
+<code>カムイがくぽ.bbpv</code>
+
+</td>
+
+<td align="center">
+
+<a href="Images/Portraits/GUMI.jpg">
+<img src="Images/Portraits/GUMI.jpg" width="70">
+</a>
+
+<br>
+
+<b>GUMI</b>
+<br>
+<code>GUMI.bbpv</code>
+
+</td>
+
+<td align="center">
+
+<a href="Images/Portraits/KYO.jpg">
+<img src="Images/Portraits/KYO.jpg" width="70">
+</a>
+
+<br>
+
+<b>KYO</b>
+<br>
+<code>KYO.bbpv</code>
+
+</td>
+
+<td align="center">
+
+<a href="Images/Portraits/YUU.jpg">
+<img src="Images/Portraits/YUU.jpg" width="70">
+</a>
+
+<br>
+
+<b>YUU</b>
+<br>
+<code>YUU.bbpv</code>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+
+<a href="Images/Portraits/WIL.jpg">
+<img src="Images/Portraits/WIL.jpg" width="70">
+</a>
+
+<br>
+
+<b>WIL</b>
+<br>
+<code>WIL.bbpv</code>
+
+</td>
+
+<td align="center">
+
+<a href="Images/Portraits/galaco.jpg">
+<img src="Images/Portraits/galaco.jpg" width="70">
+</a>
+
+<br>
+
+<b>ギャラ子</b>
+<br>
+<code>galaco.bbpv</code>
+
+</td>
+
+<td align="center">
+
+<a href="Images/Portraits/MAYU.jpg">
+<img src="Images/Portraits/MAYU.jpg" width="70">
+</a>
+
+<br>
+
+<b>MAYU</b>
+<br>
+<code>MAYU.bbpv</code>
+
+</td>
+
+<td align="center">
+
+<a href="Images/Portraits/Sachiko.jpg">
+<img src="Images/Portraits/Sachiko.jpg" width="70">
+</a>
+
+<br>
+
+<b>Sachiko</b>
+<br>
+<code>Sachiko.bbpv</code>
+
+</td>
+
+<td align="center">
+
+<a href="Images/Portraits/ARSLOID.jpg">
+<img src="Images/Portraits/ARSLOID.jpg" width="70">
+</a>
+
+<br>
+
+<b>アルスロイド</b>
+<br>
+<code>アルスロイド.bbpv</code>
+
+</td>
+
+</tr>
+
+</table>
+<br>
 
 ## Useful Resources
 
@@ -43,6 +206,26 @@ The files were extracted using Degausser and are provided in BBPV format. You ca
 
 Special thanks to the original uploaders and everyone who contributed to preserving this content. :shipit:
 
+##
+<table align="center">
+<tr>
+<th>Barbara's Final Message</th>
+</tr>
+<tr>
+<td>
+
+…ま、正直ちょっとは寂しいけど…な、泣いてなんかないんだからね！
+
+アンタたちはまたどこかで私に会えるように祈っておきなさいよ！
+
+じゃね！
+
+
+<p align="right"><i>~ Barbara, 2020</i></p>
+
+</td>
+</tr>
+</table>
 <p align="center">
   <a href="Images/CKexBG3VEAEqDOC.png">
     <img src="Images/CKexBG3VEAEqDOC.png" width="500">
