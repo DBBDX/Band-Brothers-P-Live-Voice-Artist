@@ -235,7 +235,7 @@ Artisted - BBP Renamed and Romanized
 <h3 align="center">Credits</h3>
 
 <p align="center">
-Special thanks to the original uploaders and everyone who contributed to preserving this content :shipit:
+Thanks to the original uploaders and everyone who helped preserve this content :shipit:
 </p>
 
 <br>
