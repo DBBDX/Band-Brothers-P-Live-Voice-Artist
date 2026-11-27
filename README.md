@@ -1,7 +1,7 @@
 <h1 align="center">
-Complete Collection of Voice Artists from the 3DS game
+Complete Collection of Voice Artists 
   <br>
-  大合奏!バンドブラザーズP
+ from the 3DS game 大合奏!バンドブラザーズP
 </h1>
 <br>
 
