@@ -1,5 +1,5 @@
 <h1 align="center">
-Complete Collection of Vocaloid "Live Voice Artists" from the 3DS game 大合奏!バンドブラザーズP
+Complete Collection of Vocaloid Voice Artists from the 3DS game 大合奏!バンドブラザーズP
 </h1>
 <br>
 
