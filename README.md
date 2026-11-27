@@ -3,6 +3,7 @@ Complete Collection of Voice Artists
   <br>
  from the 3DS game 大合奏!バンドブラザーズP
 </h1>
+
 <br>
 
 <p align="center">
@@ -10,8 +11,6 @@ Complete Collection of Voice Artists
     <img src="Images/ELFyYD7U0AAYBmA.jpg" width="500">
   </a>
 </p>
-
-<br><br>
 
 <h3 align="center">Collection of 11 Singers</h3>
 
