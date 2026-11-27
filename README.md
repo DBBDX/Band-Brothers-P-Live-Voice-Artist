@@ -10,11 +10,8 @@ Complete Collection of Voice Artists
     <img src="Images/ELFyYD7U0AAYBmA.jpg" width="500">
   </a>
 </p>
-<p align="center">
-Complete collection of all eleven Vocaloid Voice Artists in BBPV format
-</p>
 
-<br>
+<br><br>
 
 <h3 align="center">Collection of 11 Singers</h3>
 
