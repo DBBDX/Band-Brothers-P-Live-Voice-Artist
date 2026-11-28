@@ -214,12 +214,8 @@ Jam With The Band P English Translation
 <p align="center">
 
 <a href="https://gbatemp.net/members/naderino.301146/">
-Naderino
-</a>
-'s <strong>9,000+ Song</strong> Collection
-(<a href="https://drive.google.com/file/d/1zsuhBsvQQT860p5aMst-AKhprqPpJkCt/view?usp=sharing">
-Artisted - BBP Renamed and Romanized
-</a>)
+Naderino</a>'s <strong>9,000+ Song</strong> Collection
+(<a href="https://drive.google.com/file/d/1zsuhBsvQQT860p5aMst-AKhprqPpJkCt/view?usp=sharing">Artisted - BBP Renamed and Romanized</a>)
 
 </p>
 
@@ -227,12 +223,8 @@ Artisted - BBP Renamed and Romanized
 <p align="center">
 
 <a href="https://gbatemp.net/members/gnc140.392345/">
-gnc140
-</a>
-'s <strong>40 Movie Songs</strong> and <ins>10</ins> Vocaloid Singers Collection
-(<a href="https://mega.nz/file/oB9HALYR#FZvAC4HIa8XiW4iCnbVKAucMB-ugFI3MxjOoecC_g2M">
-MV40_VOC10_filer
-</a>)
+gnc140</a>'s <strong>40 Movie Songs</strong> and <ins>10</ins> Vocaloid Singers Collection
+(<a href="https://mega.nz/file/oB9HALYR#FZvAC4HIa8XiW4iCnbVKAucMB-ugFI3MxjOoecC_g2M">MV40_VOC10_filer</a>)
 
 </p>
 
@@ -244,6 +236,7 @@ MV40_VOC10_filer
   </a>
 </p>
 
+<br>
 
 <h3 align="center">Credits</h3>
 
