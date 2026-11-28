@@ -12,6 +12,8 @@ Complete Collection of Voice Artists
   </a>
 </p>
 
+<br>
+
 <h3 align="center">Collection of 11 Singers</h3>
 
 <table align="center">
@@ -192,7 +194,8 @@ Complete Collection of Voice Artists
 
 </table>
 
- 
+<br>
+
 <h3 align="center">Useful Resources</h3>
 
 <p align="center">
@@ -218,7 +221,6 @@ Naderino</a>'s <strong>9,000+ Song</strong> Collection
 (<a href="https://drive.google.com/file/d/1zsuhBsvQQT860p5aMst-AKhprqPpJkCt/view?usp=sharing">Artisted - BBP Renamed and Romanized</a>)
 
 </p>
-
 
 <p align="center">
 
